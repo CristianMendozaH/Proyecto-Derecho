@@ -1,0 +1,19 @@
+1. Registrarse en https://github.com/signup?source=login
+2. Descargar e instalar https://git-scm.com/
+3. Crear repositorio en GitHub.
+
+Por primera vez.
+1. git config --global user.name "Nombre de usuario de Github o bitbucket"
+2. git config --global user.email "Email usado en GitHub o bitbucket"
+3. git init
+4. git add .
+5. git commit -m "Primer Commit"
+6. Copiar los comandos de Git Hub (…or push an existing repository from the command line).
+
+
+
+Subir Actualizaciones.
+1. git add .
+2. git commit -m "Segundo commit"
+3. git pull
+4. git push
