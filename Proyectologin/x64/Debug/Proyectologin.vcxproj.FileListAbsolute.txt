@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.Proyectologin.resources
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.CopyComplete
