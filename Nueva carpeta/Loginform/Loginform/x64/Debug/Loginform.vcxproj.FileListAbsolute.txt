@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Loginform\Loginform\x64\Debug\Loginform.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Loginform\Loginform\x64\Debug\Loginform.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Loginform\Loginform\x64\Debug\Loginform.LoginForm.resources
+C:\Users\Lenovo\source\repos\Loginform\Loginform\x64\Debug\Loginform.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Loginform\Loginform\x64\Debug\Loginform.vcxproj.CopyComplete
+C:\Users\Lenovo\source\repos\Loginform\x64\Debug\Loginform.exe.config
+C:\Users\Lenovo\source\repos\Loginform\Loginform\x64\Debug\Loginform.exe.config
